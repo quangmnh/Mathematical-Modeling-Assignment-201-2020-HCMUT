@@ -5,14 +5,14 @@
  >AutonomousGreenhouseChallengeFirstEdition(2018)
  
  Datasets used in the project for running simualtion and validate results.
+ Data used in this project is obtained from Sonoma team (**Greenhouse_cliamte.csv**, **vip.csv**) and weather station data (**meteo.csv**)
  
- >code
  
  > &nbsp;&nbsp; CO2
  
  > &nbsp;&nbsp; VP
  
- Python code for simulations, CO2 and Vapour Pressure models are dived into 2 section for easy-to-implement and easy-to-understand purpose. Both use the two algorithms Explicit Euler and Runge-Kutta 4<sup>th</sup>
+ Python code for simulations, CO2 and Vapour Pressure models are divided into 2 section for easy-to-implement and easy-to-understand purpose. Both use the two algorithms Explicit Euler and Runge-Kutta 4<sup>th</sup>
 
 >report 
 
