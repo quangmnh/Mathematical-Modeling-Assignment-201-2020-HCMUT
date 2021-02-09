@@ -4,6 +4,8 @@
 # Folders Contents
  >AutonomousGreenhouseChallengeFirstEdition(2018)
  
+  > &nbsp;&nbsp; Sonoma
+ 
  Datasets used in the project for running simualtion and validate results.
  Data used in this project is obtained from Sonoma team (**Greenhouse_cliamte.csv**, **vip.csv**) and weather station data (**meteo.csv**)
  
