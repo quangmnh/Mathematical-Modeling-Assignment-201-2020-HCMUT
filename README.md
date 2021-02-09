@@ -23,4 +23,6 @@
 
 Report for the whole project in <img src="https://latex.codecogs.com/svg.latex?%5CLaTeX" />, including our knowledge about Differential equations and Explicit Euler as well as Runge-Kutta 4<sup>th</sup> algorithms.
 
+>topic
 
+The topic of the assignment, handed out by Mr.Nguyen Tien Thinh and Mr.Nguyen An Khuong.
