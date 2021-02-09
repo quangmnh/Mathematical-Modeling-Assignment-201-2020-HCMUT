@@ -1,5 +1,7 @@
-# Math-Modeling-Assignment-201
- Math Modeling Assignment from term 201, Ho Chi Minh University of Technology. This assignment is about simulating a dynamical system, which is the micro-climate in a Greenhouse.
+# Mathematical-Modeling-Assignment-201
+ Mathematical Modeling Assignment from term 201, Ho Chi Minh University of Technology. This assignment is about simulating a dynamical system, which is the micro-climate in a Greenhouse.
+ 
+ In this project, most research about Greenhouse climate's dynamical system is referenced from PhD thesis of B.H.E. Vanthoor entitled: ***A model-based greenhouse design method***.
 
 # Folders Contents
  >AutonomousGreenhouseChallengeFirstEdition(2018)
