@@ -6,10 +6,23 @@
  
  Datasets used in the project for running simualtion and validate results.
  
- >Code
- 
- >    CO2
- 
- >    VP
+```
+project
+│   README.md
+│   file001.txt    
+│
+└───folder1
+│   │   file011.txt
+│   │   file012.txt
+│   │
+│   └───subfolder1
+│       │   file111.txt
+│       │   file112.txt
+│       │   ...
+│   
+└───folder2
+    │   file021.txt
+    │   file022.txt
+```
  
  Python code for simulations, CO2 and Vapour Pressure models are dived into 2 section for easy-to-implement and easy-to-understand purpose.
