@@ -16,4 +16,4 @@
 
 >report 
 
-Report for the whole project in <img src="https://latex.codecogs.com/gif.latex?\LaTex" /> 
+Report for the whole project in <img src="https://latex.codecogs.com/svg.latex?%5CLaTeX" /> 
